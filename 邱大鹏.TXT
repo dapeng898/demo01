@@ -1,0 +1,12 @@
+B
+A
+B
+C
+A
+A
+B
+C
+B
+D
+
++ddddddddddddddddd
